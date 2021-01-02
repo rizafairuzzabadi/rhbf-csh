@@ -1,0 +1,16 @@
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\first-steps\mrf\1-firstcshcode\obj\Debug\net5.0\1-firstcshcode.csprojAssemblyReference.cache
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\first-steps\mrf\1-firstcshcode\obj\Debug\net5.0\1-firstcshcode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\first-steps\mrf\1-firstcshcode\obj\Debug\net5.0\1-firstcshcode.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\first-steps\mrf\1-firstcshcode\obj\Debug\net5.0\1-firstcshcode.AssemblyInfo.cs
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\first-steps\mrf\1-firstcshcode\obj\Debug\net5.0\1-firstcshcode.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\first-steps\mrf\1-firstcshcode\bin\Debug\net5.0\1-firstcshcode.exe
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\first-steps\mrf\1-firstcshcode\bin\Debug\net5.0\1-firstcshcode.deps.json
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\first-steps\mrf\1-firstcshcode\bin\Debug\net5.0\1-firstcshcode.runtimeconfig.json
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\first-steps\mrf\1-firstcshcode\bin\Debug\net5.0\1-firstcshcode.runtimeconfig.dev.json
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\first-steps\mrf\1-firstcshcode\bin\Debug\net5.0\1-firstcshcode.dll
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\first-steps\mrf\1-firstcshcode\bin\Debug\net5.0\ref\1-firstcshcode.dll
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\first-steps\mrf\1-firstcshcode\bin\Debug\net5.0\1-firstcshcode.pdb
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\first-steps\mrf\1-firstcshcode\obj\Debug\net5.0\1-firstcshcode.dll
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\first-steps\mrf\1-firstcshcode\obj\Debug\net5.0\ref\1-firstcshcode.dll
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\first-steps\mrf\1-firstcshcode\obj\Debug\net5.0\1-firstcshcode.pdb
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\first-steps\mrf\1-firstcshcode\obj\Debug\net5.0\1-firstcshcode.genruntimeconfig.cache
