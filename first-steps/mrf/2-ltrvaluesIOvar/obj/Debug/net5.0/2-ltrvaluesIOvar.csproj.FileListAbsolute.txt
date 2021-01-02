@@ -1,0 +1,16 @@
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\first-steps\mrf\2-ltrvaluesIOvar\bin\Debug\net5.0\2-ltrvaluesIOvar.exe
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\first-steps\mrf\2-ltrvaluesIOvar\bin\Debug\net5.0\2-ltrvaluesIOvar.deps.json
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\first-steps\mrf\2-ltrvaluesIOvar\bin\Debug\net5.0\2-ltrvaluesIOvar.runtimeconfig.json
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\first-steps\mrf\2-ltrvaluesIOvar\bin\Debug\net5.0\2-ltrvaluesIOvar.runtimeconfig.dev.json
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\first-steps\mrf\2-ltrvaluesIOvar\bin\Debug\net5.0\2-ltrvaluesIOvar.dll
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\first-steps\mrf\2-ltrvaluesIOvar\bin\Debug\net5.0\ref\2-ltrvaluesIOvar.dll
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\first-steps\mrf\2-ltrvaluesIOvar\bin\Debug\net5.0\2-ltrvaluesIOvar.pdb
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\first-steps\mrf\2-ltrvaluesIOvar\obj\Debug\net5.0\2-ltrvaluesIOvar.csprojAssemblyReference.cache
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\first-steps\mrf\2-ltrvaluesIOvar\obj\Debug\net5.0\2-ltrvaluesIOvar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\first-steps\mrf\2-ltrvaluesIOvar\obj\Debug\net5.0\2-ltrvaluesIOvar.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\first-steps\mrf\2-ltrvaluesIOvar\obj\Debug\net5.0\2-ltrvaluesIOvar.AssemblyInfo.cs
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\first-steps\mrf\2-ltrvaluesIOvar\obj\Debug\net5.0\2-ltrvaluesIOvar.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\first-steps\mrf\2-ltrvaluesIOvar\obj\Debug\net5.0\2-ltrvaluesIOvar.dll
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\first-steps\mrf\2-ltrvaluesIOvar\obj\Debug\net5.0\ref\2-ltrvaluesIOvar.dll
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\first-steps\mrf\2-ltrvaluesIOvar\obj\Debug\net5.0\2-ltrvaluesIOvar.pdb
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\first-steps\mrf\2-ltrvaluesIOvar\obj\Debug\net5.0\2-ltrvaluesIOvar.genruntimeconfig.cache
