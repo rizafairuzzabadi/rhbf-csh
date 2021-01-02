@@ -1,0 +1,16 @@
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\first-steps\mrf\6-ifElse\bin\Debug\net5.0\6-ifElse.exe
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\first-steps\mrf\6-ifElse\bin\Debug\net5.0\6-ifElse.deps.json
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\first-steps\mrf\6-ifElse\bin\Debug\net5.0\6-ifElse.runtimeconfig.json
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\first-steps\mrf\6-ifElse\bin\Debug\net5.0\6-ifElse.runtimeconfig.dev.json
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\first-steps\mrf\6-ifElse\bin\Debug\net5.0\6-ifElse.dll
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\first-steps\mrf\6-ifElse\bin\Debug\net5.0\ref\6-ifElse.dll
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\first-steps\mrf\6-ifElse\bin\Debug\net5.0\6-ifElse.pdb
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\first-steps\mrf\6-ifElse\obj\Debug\net5.0\6-ifElse.csprojAssemblyReference.cache
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\first-steps\mrf\6-ifElse\obj\Debug\net5.0\6-ifElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\first-steps\mrf\6-ifElse\obj\Debug\net5.0\6-ifElse.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\first-steps\mrf\6-ifElse\obj\Debug\net5.0\6-ifElse.AssemblyInfo.cs
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\first-steps\mrf\6-ifElse\obj\Debug\net5.0\6-ifElse.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\first-steps\mrf\6-ifElse\obj\Debug\net5.0\6-ifElse.dll
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\first-steps\mrf\6-ifElse\obj\Debug\net5.0\ref\6-ifElse.dll
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\first-steps\mrf\6-ifElse\obj\Debug\net5.0\6-ifElse.pdb
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\first-steps\mrf\6-ifElse\obj\Debug\net5.0\6-ifElse.genruntimeconfig.cache
