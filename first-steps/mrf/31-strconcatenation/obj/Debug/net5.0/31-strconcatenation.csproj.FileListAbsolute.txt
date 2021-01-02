@@ -1,0 +1,16 @@
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\first-steps\mrf\31-strconcatenation\obj\Debug\net5.0\31-strconcatenation.csprojAssemblyReference.cache
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\first-steps\mrf\31-strconcatenation\obj\Debug\net5.0\31-strconcatenation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\first-steps\mrf\31-strconcatenation\obj\Debug\net5.0\31-strconcatenation.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\first-steps\mrf\31-strconcatenation\obj\Debug\net5.0\31-strconcatenation.AssemblyInfo.cs
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\first-steps\mrf\31-strconcatenation\obj\Debug\net5.0\31-strconcatenation.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\first-steps\mrf\31-strconcatenation\bin\Debug\net5.0\31-strconcatenation.exe
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\first-steps\mrf\31-strconcatenation\bin\Debug\net5.0\31-strconcatenation.deps.json
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\first-steps\mrf\31-strconcatenation\bin\Debug\net5.0\31-strconcatenation.runtimeconfig.json
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\first-steps\mrf\31-strconcatenation\bin\Debug\net5.0\31-strconcatenation.runtimeconfig.dev.json
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\first-steps\mrf\31-strconcatenation\bin\Debug\net5.0\31-strconcatenation.dll
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\first-steps\mrf\31-strconcatenation\bin\Debug\net5.0\ref\31-strconcatenation.dll
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\first-steps\mrf\31-strconcatenation\bin\Debug\net5.0\31-strconcatenation.pdb
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\first-steps\mrf\31-strconcatenation\obj\Debug\net5.0\31-strconcatenation.dll
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\first-steps\mrf\31-strconcatenation\obj\Debug\net5.0\ref\31-strconcatenation.dll
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\first-steps\mrf\31-strconcatenation\obj\Debug\net5.0\31-strconcatenation.pdb
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\first-steps\mrf\31-strconcatenation\obj\Debug\net5.0\31-strconcatenation.genruntimeconfig.cache

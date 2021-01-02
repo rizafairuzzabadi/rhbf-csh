@@ -1,0 +1,16 @@
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\first-steps\mrf\3-strformat\obj\Debug\net5.0\3-strformat.csprojAssemblyReference.cache
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\first-steps\mrf\3-strformat\obj\Debug\net5.0\3-strformat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\first-steps\mrf\3-strformat\obj\Debug\net5.0\3-strformat.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\first-steps\mrf\3-strformat\obj\Debug\net5.0\3-strformat.AssemblyInfo.cs
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\first-steps\mrf\3-strformat\obj\Debug\net5.0\3-strformat.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\first-steps\mrf\3-strformat\bin\Debug\net5.0\3-strformat.exe
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\first-steps\mrf\3-strformat\bin\Debug\net5.0\3-strformat.deps.json
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\first-steps\mrf\3-strformat\bin\Debug\net5.0\3-strformat.runtimeconfig.json
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\first-steps\mrf\3-strformat\bin\Debug\net5.0\3-strformat.runtimeconfig.dev.json
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\first-steps\mrf\3-strformat\bin\Debug\net5.0\3-strformat.dll
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\first-steps\mrf\3-strformat\bin\Debug\net5.0\ref\3-strformat.dll
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\first-steps\mrf\3-strformat\bin\Debug\net5.0\3-strformat.pdb
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\first-steps\mrf\3-strformat\obj\Debug\net5.0\3-strformat.dll
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\first-steps\mrf\3-strformat\obj\Debug\net5.0\ref\3-strformat.dll
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\first-steps\mrf\3-strformat\obj\Debug\net5.0\3-strformat.pdb
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\first-steps\mrf\3-strformat\obj\Debug\net5.0\3-strformat.genruntimeconfig.cache
