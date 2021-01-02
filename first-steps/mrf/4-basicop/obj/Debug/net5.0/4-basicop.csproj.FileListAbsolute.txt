@@ -1,0 +1,16 @@
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\first-steps\mrf\4-basicop\obj\Debug\net5.0\4-basicop.csprojAssemblyReference.cache
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\first-steps\mrf\4-basicop\obj\Debug\net5.0\4-basicop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\first-steps\mrf\4-basicop\obj\Debug\net5.0\4-basicop.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\first-steps\mrf\4-basicop\obj\Debug\net5.0\4-basicop.AssemblyInfo.cs
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\first-steps\mrf\4-basicop\obj\Debug\net5.0\4-basicop.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\first-steps\mrf\4-basicop\bin\Debug\net5.0\4-basicop.exe
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\first-steps\mrf\4-basicop\bin\Debug\net5.0\4-basicop.deps.json
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\first-steps\mrf\4-basicop\bin\Debug\net5.0\4-basicop.runtimeconfig.json
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\first-steps\mrf\4-basicop\bin\Debug\net5.0\4-basicop.runtimeconfig.dev.json
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\first-steps\mrf\4-basicop\bin\Debug\net5.0\4-basicop.dll
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\first-steps\mrf\4-basicop\bin\Debug\net5.0\ref\4-basicop.dll
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\first-steps\mrf\4-basicop\bin\Debug\net5.0\4-basicop.pdb
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\first-steps\mrf\4-basicop\obj\Debug\net5.0\4-basicop.dll
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\first-steps\mrf\4-basicop\obj\Debug\net5.0\ref\4-basicop.dll
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\first-steps\mrf\4-basicop\obj\Debug\net5.0\4-basicop.pdb
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\first-steps\mrf\4-basicop\obj\Debug\net5.0\4-basicop.genruntimeconfig.cache
