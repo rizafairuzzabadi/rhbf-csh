@@ -1,0 +1,16 @@
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\3-datatypes\main\bin\Debug\net5.0\main.exe
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\3-datatypes\main\bin\Debug\net5.0\main.deps.json
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\3-datatypes\main\bin\Debug\net5.0\main.runtimeconfig.json
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\3-datatypes\main\bin\Debug\net5.0\main.runtimeconfig.dev.json
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\3-datatypes\main\bin\Debug\net5.0\main.dll
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\3-datatypes\main\bin\Debug\net5.0\ref\main.dll
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\3-datatypes\main\bin\Debug\net5.0\main.pdb
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\3-datatypes\main\obj\Debug\net5.0\main.csprojAssemblyReference.cache
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\3-datatypes\main\obj\Debug\net5.0\main.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\3-datatypes\main\obj\Debug\net5.0\main.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\3-datatypes\main\obj\Debug\net5.0\main.AssemblyInfo.cs
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\3-datatypes\main\obj\Debug\net5.0\main.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\3-datatypes\main\obj\Debug\net5.0\main.dll
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\3-datatypes\main\obj\Debug\net5.0\ref\main.dll
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\3-datatypes\main\obj\Debug\net5.0\main.pdb
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\3-datatypes\main\obj\Debug\net5.0\main.genruntimeconfig.cache
