@@ -1,0 +1,16 @@
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\logic\mrf\2\challenge\bin\Debug\net5.0\challenge.exe
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\logic\mrf\2\challenge\bin\Debug\net5.0\challenge.deps.json
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\logic\mrf\2\challenge\bin\Debug\net5.0\challenge.runtimeconfig.json
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\logic\mrf\2\challenge\bin\Debug\net5.0\challenge.runtimeconfig.dev.json
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\logic\mrf\2\challenge\bin\Debug\net5.0\challenge.dll
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\logic\mrf\2\challenge\bin\Debug\net5.0\ref\challenge.dll
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\logic\mrf\2\challenge\bin\Debug\net5.0\challenge.pdb
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\logic\mrf\2\challenge\obj\Debug\net5.0\challenge.csprojAssemblyReference.cache
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\logic\mrf\2\challenge\obj\Debug\net5.0\challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\logic\mrf\2\challenge\obj\Debug\net5.0\challenge.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\logic\mrf\2\challenge\obj\Debug\net5.0\challenge.AssemblyInfo.cs
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\logic\mrf\2\challenge\obj\Debug\net5.0\challenge.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\logic\mrf\2\challenge\obj\Debug\net5.0\challenge.dll
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\logic\mrf\2\challenge\obj\Debug\net5.0\ref\challenge.dll
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\logic\mrf\2\challenge\obj\Debug\net5.0\challenge.pdb
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\logic\mrf\2\challenge\obj\Debug\net5.0\challenge.genruntimeconfig.cache

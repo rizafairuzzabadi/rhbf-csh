@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5GLetITz8Feo3bBoJCpQSdup8Y/qcw+ddKGmVfpZIDtAwi7CI2vEHcnrDyY/eYsfUe76VzQ46qyNBLugCmc9ag==",
+  "dgSpecHash": "G6vWciMH19vnCw/4TuQPcFa7Z03jU1NBGiIJiSsnuO+oOA3IBaWQmvsxVyjtEFocmibUWnv6VuAFmWiNXrBRhA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\LENOVO\\Documents\\GitHub\\rhbf-csh\\first-steps\\mrf\\31-strconcatenation\\31-strconcatenation.csproj",
+  "projectFilePath": "C:\\Users\\LENOVO\\Documents\\GitHub\\rhbf-csh\\first-steps\\mrf\\3-strformat\\31-strconcatenation\\31-strconcatenation.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
