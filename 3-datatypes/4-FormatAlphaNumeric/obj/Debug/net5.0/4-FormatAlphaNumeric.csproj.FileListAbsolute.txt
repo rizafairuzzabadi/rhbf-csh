@@ -1,0 +1,16 @@
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\3-datatypes\4-FormatAlphaNumeric\bin\Debug\net5.0\4-FormatAlphaNumeric.exe
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\3-datatypes\4-FormatAlphaNumeric\bin\Debug\net5.0\4-FormatAlphaNumeric.deps.json
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\3-datatypes\4-FormatAlphaNumeric\bin\Debug\net5.0\4-FormatAlphaNumeric.runtimeconfig.json
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\3-datatypes\4-FormatAlphaNumeric\bin\Debug\net5.0\4-FormatAlphaNumeric.runtimeconfig.dev.json
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\3-datatypes\4-FormatAlphaNumeric\bin\Debug\net5.0\4-FormatAlphaNumeric.dll
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\3-datatypes\4-FormatAlphaNumeric\bin\Debug\net5.0\ref\4-FormatAlphaNumeric.dll
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\3-datatypes\4-FormatAlphaNumeric\bin\Debug\net5.0\4-FormatAlphaNumeric.pdb
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\3-datatypes\4-FormatAlphaNumeric\obj\Debug\net5.0\4-FormatAlphaNumeric.csprojAssemblyReference.cache
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\3-datatypes\4-FormatAlphaNumeric\obj\Debug\net5.0\4-FormatAlphaNumeric.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\3-datatypes\4-FormatAlphaNumeric\obj\Debug\net5.0\4-FormatAlphaNumeric.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\3-datatypes\4-FormatAlphaNumeric\obj\Debug\net5.0\4-FormatAlphaNumeric.AssemblyInfo.cs
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\3-datatypes\4-FormatAlphaNumeric\obj\Debug\net5.0\4-FormatAlphaNumeric.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\3-datatypes\4-FormatAlphaNumeric\obj\Debug\net5.0\4-FormatAlphaNumeric.dll
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\3-datatypes\4-FormatAlphaNumeric\obj\Debug\net5.0\ref\4-FormatAlphaNumeric.dll
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\3-datatypes\4-FormatAlphaNumeric\obj\Debug\net5.0\4-FormatAlphaNumeric.pdb
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\3-datatypes\4-FormatAlphaNumeric\obj\Debug\net5.0\4-FormatAlphaNumeric.genruntimeconfig.cache
