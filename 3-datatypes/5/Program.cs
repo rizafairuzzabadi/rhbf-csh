@@ -35,6 +35,30 @@ namespace _5
             closingPosition = message.LastIndexOf(')');
             length = closingPosition - openingPosition;
             Console.WriteLine(message.Substring(openingPosition, length));
+
+            string data = "12345John Smith          5000  3  ";
+            string updatedData = data.Remove(5, 20);
+            Console.WriteLine(updatedData);
+
+            message = "This--is--ex-amp-le--da-ta";
+            message = message.Replace("--", " ");
+            message = message.Replace("-", "");
+            Console.WriteLine(message);
+
+            //Challenge
+            const string input = "<div><h2>Widgets &trade;</h2><span>5000</span></div>";
+
+            string quantity = "";
+            string output = "";
+
+            // Your work here
+            quantity = input.Substring(input.IndexOf("<span>") + "<span>".Length, (input.IndexOf("</span>") - (input.IndexOf("<span>") + "<span>".Length)));
+
+            output = input.Remove(input.IndexOf("<div>"), "<div>".Length);
+            output = output.Remove(output.IndexOf("</div>"), "</div>".Length);
+            output = output.Replace("&trade;", "&reg;");
+            Console.WriteLine(quantity);
+            Console.WriteLine(output);
         }
     }
 }
