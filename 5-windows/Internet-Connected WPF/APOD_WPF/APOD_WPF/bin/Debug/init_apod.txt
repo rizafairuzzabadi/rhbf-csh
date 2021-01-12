@@ -1,0 +1,4 @@
+date today:1/12/2021
+images today:4
+show on startup:True
+limit range:False
