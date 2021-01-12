@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\5-windows\wpf\Say hello\Say hello\bin\Debug\Say hello.exe.config
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\5-windows\wpf\Say hello\Say hello\bin\Debug\Say hello.exe
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\5-windows\wpf\Say hello\Say hello\bin\Debug\Say hello.pdb
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\5-windows\wpf\Say hello\Say hello\obj\Debug\Say hello.csprojAssemblyReference.cache
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\5-windows\wpf\Say hello\Say hello\obj\Debug\MainWindow.g.cs
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\5-windows\wpf\Say hello\Say hello\obj\Debug\App.g.cs
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\5-windows\wpf\Say hello\Say hello\obj\Debug\Say hello_MarkupCompile.cache
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\5-windows\wpf\Say hello\Say hello\obj\Debug\Say hello_MarkupCompile.lref
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\5-windows\wpf\Say hello\Say hello\obj\Debug\MainWindow.baml
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\5-windows\wpf\Say hello\Say hello\obj\Debug\Say hello.g.resources
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\5-windows\wpf\Say hello\Say hello\obj\Debug\Say_hello.Properties.Resources.resources
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\5-windows\wpf\Say hello\Say hello\obj\Debug\Say hello.csproj.GenerateResource.cache
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\5-windows\wpf\Say hello\Say hello\obj\Debug\Say hello.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\5-windows\wpf\Say hello\Say hello\obj\Debug\Say hello.exe
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\5-windows\wpf\Say hello\Say hello\obj\Debug\Say hello.pdb

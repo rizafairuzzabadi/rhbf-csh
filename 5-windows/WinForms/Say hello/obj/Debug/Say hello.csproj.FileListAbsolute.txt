@@ -1,0 +1,10 @@
+C:\Users\LENOVO\source\repos\Say hello\Say hello\bin\Debug\Say hello.exe.config
+C:\Users\LENOVO\source\repos\Say hello\Say hello\bin\Debug\Say hello.exe
+C:\Users\LENOVO\source\repos\Say hello\Say hello\bin\Debug\Say hello.pdb
+C:\Users\LENOVO\source\repos\Say hello\Say hello\obj\Debug\Say hello.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\Say hello\Say hello\obj\Debug\Say_hello.Form1.resources
+C:\Users\LENOVO\source\repos\Say hello\Say hello\obj\Debug\Say_hello.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\Say hello\Say hello\obj\Debug\Say hello.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\Say hello\Say hello\obj\Debug\Say hello.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Say hello\Say hello\obj\Debug\Say hello.exe
+C:\Users\LENOVO\source\repos\Say hello\Say hello\obj\Debug\Say hello.pdb
