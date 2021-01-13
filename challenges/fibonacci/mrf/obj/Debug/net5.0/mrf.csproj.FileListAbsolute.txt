@@ -1,0 +1,16 @@
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\challenges\fibonacci\mrf\bin\Debug\net5.0\mrf.exe
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\challenges\fibonacci\mrf\bin\Debug\net5.0\mrf.deps.json
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\challenges\fibonacci\mrf\bin\Debug\net5.0\mrf.runtimeconfig.json
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\challenges\fibonacci\mrf\bin\Debug\net5.0\mrf.runtimeconfig.dev.json
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\challenges\fibonacci\mrf\bin\Debug\net5.0\mrf.dll
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\challenges\fibonacci\mrf\bin\Debug\net5.0\ref\mrf.dll
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\challenges\fibonacci\mrf\bin\Debug\net5.0\mrf.pdb
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\challenges\fibonacci\mrf\obj\Debug\net5.0\mrf.csprojAssemblyReference.cache
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\challenges\fibonacci\mrf\obj\Debug\net5.0\mrf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\challenges\fibonacci\mrf\obj\Debug\net5.0\mrf.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\challenges\fibonacci\mrf\obj\Debug\net5.0\mrf.AssemblyInfo.cs
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\challenges\fibonacci\mrf\obj\Debug\net5.0\mrf.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\challenges\fibonacci\mrf\obj\Debug\net5.0\mrf.dll
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\challenges\fibonacci\mrf\obj\Debug\net5.0\ref\mrf.dll
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\challenges\fibonacci\mrf\obj\Debug\net5.0\mrf.pdb
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\challenges\fibonacci\mrf\obj\Debug\net5.0\mrf.genruntimeconfig.cache

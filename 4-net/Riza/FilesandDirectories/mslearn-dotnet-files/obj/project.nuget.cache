@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BZVGkPcVg4meDbTDjquU9mHdPjZeQmz53lpbaW8r/JwH4iyZatDy0cyTe19gkR7Oyy49tEo/DRQLAHSacSC2iQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LENOVO\\Documents\\GitHub\\rhbf-csh\\4-net\\FilesandDirectories\\mslearn-dotnet-files\\files-module.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LENOVO\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
