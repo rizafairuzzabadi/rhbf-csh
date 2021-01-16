@@ -1,0 +1,15 @@
+/Users/humeyraboz/Documents/GitHub/rhbf-csh/first-steps/ahb/dorduncuasama/bin/Debug/net5.0/dorduncuasama.deps.json
+/Users/humeyraboz/Documents/GitHub/rhbf-csh/first-steps/ahb/dorduncuasama/bin/Debug/net5.0/dorduncuasama.runtimeconfig.json
+/Users/humeyraboz/Documents/GitHub/rhbf-csh/first-steps/ahb/dorduncuasama/bin/Debug/net5.0/dorduncuasama.runtimeconfig.dev.json
+/Users/humeyraboz/Documents/GitHub/rhbf-csh/first-steps/ahb/dorduncuasama/bin/Debug/net5.0/dorduncuasama.dll
+/Users/humeyraboz/Documents/GitHub/rhbf-csh/first-steps/ahb/dorduncuasama/bin/Debug/net5.0/ref/dorduncuasama.dll
+/Users/humeyraboz/Documents/GitHub/rhbf-csh/first-steps/ahb/dorduncuasama/bin/Debug/net5.0/dorduncuasama.pdb
+/Users/humeyraboz/Documents/GitHub/rhbf-csh/first-steps/ahb/dorduncuasama/obj/Debug/net5.0/dorduncuasama.csprojAssemblyReference.cache
+/Users/humeyraboz/Documents/GitHub/rhbf-csh/first-steps/ahb/dorduncuasama/obj/Debug/net5.0/dorduncuasama.GeneratedMSBuildEditorConfig.editorconfig
+/Users/humeyraboz/Documents/GitHub/rhbf-csh/first-steps/ahb/dorduncuasama/obj/Debug/net5.0/dorduncuasama.AssemblyInfoInputs.cache
+/Users/humeyraboz/Documents/GitHub/rhbf-csh/first-steps/ahb/dorduncuasama/obj/Debug/net5.0/dorduncuasama.AssemblyInfo.cs
+/Users/humeyraboz/Documents/GitHub/rhbf-csh/first-steps/ahb/dorduncuasama/obj/Debug/net5.0/dorduncuasama.csproj.CoreCompileInputs.cache
+/Users/humeyraboz/Documents/GitHub/rhbf-csh/first-steps/ahb/dorduncuasama/obj/Debug/net5.0/dorduncuasama.dll
+/Users/humeyraboz/Documents/GitHub/rhbf-csh/first-steps/ahb/dorduncuasama/obj/Debug/net5.0/ref/dorduncuasama.dll
+/Users/humeyraboz/Documents/GitHub/rhbf-csh/first-steps/ahb/dorduncuasama/obj/Debug/net5.0/dorduncuasama.pdb
+/Users/humeyraboz/Documents/GitHub/rhbf-csh/first-steps/ahb/dorduncuasama/obj/Debug/net5.0/dorduncuasama.genruntimeconfig.cache

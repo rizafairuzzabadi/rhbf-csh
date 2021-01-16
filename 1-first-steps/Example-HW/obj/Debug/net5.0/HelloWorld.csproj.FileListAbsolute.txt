@@ -1,0 +1,16 @@
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\first-steps\mrf\HelloWorld\bin\Debug\net5.0\HelloWorld.exe
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\first-steps\mrf\HelloWorld\bin\Debug\net5.0\HelloWorld.deps.json
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\first-steps\mrf\HelloWorld\bin\Debug\net5.0\HelloWorld.runtimeconfig.json
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\first-steps\mrf\HelloWorld\bin\Debug\net5.0\HelloWorld.runtimeconfig.dev.json
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\first-steps\mrf\HelloWorld\bin\Debug\net5.0\HelloWorld.dll
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\first-steps\mrf\HelloWorld\bin\Debug\net5.0\ref\HelloWorld.dll
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\first-steps\mrf\HelloWorld\bin\Debug\net5.0\HelloWorld.pdb
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\first-steps\mrf\HelloWorld\obj\Debug\net5.0\HelloWorld.csprojAssemblyReference.cache
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\first-steps\mrf\HelloWorld\obj\Debug\net5.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\first-steps\mrf\HelloWorld\obj\Debug\net5.0\HelloWorld.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\first-steps\mrf\HelloWorld\obj\Debug\net5.0\HelloWorld.AssemblyInfo.cs
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\first-steps\mrf\HelloWorld\obj\Debug\net5.0\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\first-steps\mrf\HelloWorld\obj\Debug\net5.0\HelloWorld.dll
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\first-steps\mrf\HelloWorld\obj\Debug\net5.0\ref\HelloWorld.dll
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\first-steps\mrf\HelloWorld\obj\Debug\net5.0\HelloWorld.pdb
+C:\Users\LENOVO\Documents\GitHub\rhbf-csh\first-steps\mrf\HelloWorld\obj\Debug\net5.0\HelloWorld.genruntimeconfig.cache

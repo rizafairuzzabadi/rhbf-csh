@@ -1,0 +1,15 @@
+/Users/humeyraboz/Documents/GitHub/rhbf-csh/first-steps/ahb/ikinciasama/bin/Debug/net5.0/ikinciasama.deps.json
+/Users/humeyraboz/Documents/GitHub/rhbf-csh/first-steps/ahb/ikinciasama/bin/Debug/net5.0/ikinciasama.runtimeconfig.json
+/Users/humeyraboz/Documents/GitHub/rhbf-csh/first-steps/ahb/ikinciasama/bin/Debug/net5.0/ikinciasama.runtimeconfig.dev.json
+/Users/humeyraboz/Documents/GitHub/rhbf-csh/first-steps/ahb/ikinciasama/bin/Debug/net5.0/ikinciasama.dll
+/Users/humeyraboz/Documents/GitHub/rhbf-csh/first-steps/ahb/ikinciasama/bin/Debug/net5.0/ref/ikinciasama.dll
+/Users/humeyraboz/Documents/GitHub/rhbf-csh/first-steps/ahb/ikinciasama/bin/Debug/net5.0/ikinciasama.pdb
+/Users/humeyraboz/Documents/GitHub/rhbf-csh/first-steps/ahb/ikinciasama/obj/Debug/net5.0/ikinciasama.csprojAssemblyReference.cache
+/Users/humeyraboz/Documents/GitHub/rhbf-csh/first-steps/ahb/ikinciasama/obj/Debug/net5.0/ikinciasama.GeneratedMSBuildEditorConfig.editorconfig
+/Users/humeyraboz/Documents/GitHub/rhbf-csh/first-steps/ahb/ikinciasama/obj/Debug/net5.0/ikinciasama.AssemblyInfoInputs.cache
+/Users/humeyraboz/Documents/GitHub/rhbf-csh/first-steps/ahb/ikinciasama/obj/Debug/net5.0/ikinciasama.AssemblyInfo.cs
+/Users/humeyraboz/Documents/GitHub/rhbf-csh/first-steps/ahb/ikinciasama/obj/Debug/net5.0/ikinciasama.csproj.CoreCompileInputs.cache
+/Users/humeyraboz/Documents/GitHub/rhbf-csh/first-steps/ahb/ikinciasama/obj/Debug/net5.0/ikinciasama.dll
+/Users/humeyraboz/Documents/GitHub/rhbf-csh/first-steps/ahb/ikinciasama/obj/Debug/net5.0/ref/ikinciasama.dll
+/Users/humeyraboz/Documents/GitHub/rhbf-csh/first-steps/ahb/ikinciasama/obj/Debug/net5.0/ikinciasama.pdb
+/Users/humeyraboz/Documents/GitHub/rhbf-csh/first-steps/ahb/ikinciasama/obj/Debug/net5.0/ikinciasama.genruntimeconfig.cache

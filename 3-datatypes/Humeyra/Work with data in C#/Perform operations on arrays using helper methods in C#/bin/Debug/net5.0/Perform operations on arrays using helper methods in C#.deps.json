@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Perform operations on arrays using helper methods in C#/1.0.0": {
+        "runtime": {
+          "Perform operations on arrays using helper methods in C#.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Perform operations on arrays using helper methods in C#/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

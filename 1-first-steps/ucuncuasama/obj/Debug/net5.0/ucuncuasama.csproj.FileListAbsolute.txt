@@ -1,0 +1,15 @@
+/Users/humeyraboz/Documents/GitHub/rhbf-csh/first-steps/ahb/ucuncuasama/bin/Debug/net5.0/ucuncuasama.deps.json
+/Users/humeyraboz/Documents/GitHub/rhbf-csh/first-steps/ahb/ucuncuasama/bin/Debug/net5.0/ucuncuasama.runtimeconfig.json
+/Users/humeyraboz/Documents/GitHub/rhbf-csh/first-steps/ahb/ucuncuasama/bin/Debug/net5.0/ucuncuasama.runtimeconfig.dev.json
+/Users/humeyraboz/Documents/GitHub/rhbf-csh/first-steps/ahb/ucuncuasama/bin/Debug/net5.0/ucuncuasama.dll
+/Users/humeyraboz/Documents/GitHub/rhbf-csh/first-steps/ahb/ucuncuasama/bin/Debug/net5.0/ref/ucuncuasama.dll
+/Users/humeyraboz/Documents/GitHub/rhbf-csh/first-steps/ahb/ucuncuasama/bin/Debug/net5.0/ucuncuasama.pdb
+/Users/humeyraboz/Documents/GitHub/rhbf-csh/first-steps/ahb/ucuncuasama/obj/Debug/net5.0/ucuncuasama.csprojAssemblyReference.cache
+/Users/humeyraboz/Documents/GitHub/rhbf-csh/first-steps/ahb/ucuncuasama/obj/Debug/net5.0/ucuncuasama.GeneratedMSBuildEditorConfig.editorconfig
+/Users/humeyraboz/Documents/GitHub/rhbf-csh/first-steps/ahb/ucuncuasama/obj/Debug/net5.0/ucuncuasama.AssemblyInfoInputs.cache
+/Users/humeyraboz/Documents/GitHub/rhbf-csh/first-steps/ahb/ucuncuasama/obj/Debug/net5.0/ucuncuasama.AssemblyInfo.cs
+/Users/humeyraboz/Documents/GitHub/rhbf-csh/first-steps/ahb/ucuncuasama/obj/Debug/net5.0/ucuncuasama.csproj.CoreCompileInputs.cache
+/Users/humeyraboz/Documents/GitHub/rhbf-csh/first-steps/ahb/ucuncuasama/obj/Debug/net5.0/ucuncuasama.dll
+/Users/humeyraboz/Documents/GitHub/rhbf-csh/first-steps/ahb/ucuncuasama/obj/Debug/net5.0/ref/ucuncuasama.dll
+/Users/humeyraboz/Documents/GitHub/rhbf-csh/first-steps/ahb/ucuncuasama/obj/Debug/net5.0/ucuncuasama.pdb
+/Users/humeyraboz/Documents/GitHub/rhbf-csh/first-steps/ahb/ucuncuasama/obj/Debug/net5.0/ucuncuasama.genruntimeconfig.cache

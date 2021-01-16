@@ -1,0 +1,15 @@
+/Users/humeyraboz/Documents/GitHub/rhbf-csh/first-steps/ahb/besinciasama/bin/Debug/net5.0/besinciasama.deps.json
+/Users/humeyraboz/Documents/GitHub/rhbf-csh/first-steps/ahb/besinciasama/bin/Debug/net5.0/besinciasama.runtimeconfig.json
+/Users/humeyraboz/Documents/GitHub/rhbf-csh/first-steps/ahb/besinciasama/bin/Debug/net5.0/besinciasama.runtimeconfig.dev.json
+/Users/humeyraboz/Documents/GitHub/rhbf-csh/first-steps/ahb/besinciasama/bin/Debug/net5.0/besinciasama.dll
+/Users/humeyraboz/Documents/GitHub/rhbf-csh/first-steps/ahb/besinciasama/bin/Debug/net5.0/ref/besinciasama.dll
+/Users/humeyraboz/Documents/GitHub/rhbf-csh/first-steps/ahb/besinciasama/bin/Debug/net5.0/besinciasama.pdb
+/Users/humeyraboz/Documents/GitHub/rhbf-csh/first-steps/ahb/besinciasama/obj/Debug/net5.0/besinciasama.csprojAssemblyReference.cache
+/Users/humeyraboz/Documents/GitHub/rhbf-csh/first-steps/ahb/besinciasama/obj/Debug/net5.0/besinciasama.GeneratedMSBuildEditorConfig.editorconfig
+/Users/humeyraboz/Documents/GitHub/rhbf-csh/first-steps/ahb/besinciasama/obj/Debug/net5.0/besinciasama.AssemblyInfoInputs.cache
+/Users/humeyraboz/Documents/GitHub/rhbf-csh/first-steps/ahb/besinciasama/obj/Debug/net5.0/besinciasama.AssemblyInfo.cs
+/Users/humeyraboz/Documents/GitHub/rhbf-csh/first-steps/ahb/besinciasama/obj/Debug/net5.0/besinciasama.csproj.CoreCompileInputs.cache
+/Users/humeyraboz/Documents/GitHub/rhbf-csh/first-steps/ahb/besinciasama/obj/Debug/net5.0/besinciasama.dll
+/Users/humeyraboz/Documents/GitHub/rhbf-csh/first-steps/ahb/besinciasama/obj/Debug/net5.0/ref/besinciasama.dll
+/Users/humeyraboz/Documents/GitHub/rhbf-csh/first-steps/ahb/besinciasama/obj/Debug/net5.0/besinciasama.pdb
+/Users/humeyraboz/Documents/GitHub/rhbf-csh/first-steps/ahb/besinciasama/obj/Debug/net5.0/besinciasama.genruntimeconfig.cache

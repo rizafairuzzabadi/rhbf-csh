@@ -1,0 +1,15 @@
+/Users/humeyraboz/Documents/GitHub/rhbf-csh/first-steps/ahb/iki/bin/Debug/net5.0/iki.deps.json
+/Users/humeyraboz/Documents/GitHub/rhbf-csh/first-steps/ahb/iki/bin/Debug/net5.0/iki.runtimeconfig.json
+/Users/humeyraboz/Documents/GitHub/rhbf-csh/first-steps/ahb/iki/bin/Debug/net5.0/iki.runtimeconfig.dev.json
+/Users/humeyraboz/Documents/GitHub/rhbf-csh/first-steps/ahb/iki/bin/Debug/net5.0/iki.dll
+/Users/humeyraboz/Documents/GitHub/rhbf-csh/first-steps/ahb/iki/bin/Debug/net5.0/ref/iki.dll
+/Users/humeyraboz/Documents/GitHub/rhbf-csh/first-steps/ahb/iki/bin/Debug/net5.0/iki.pdb
+/Users/humeyraboz/Documents/GitHub/rhbf-csh/first-steps/ahb/iki/obj/Debug/net5.0/iki.csprojAssemblyReference.cache
+/Users/humeyraboz/Documents/GitHub/rhbf-csh/first-steps/ahb/iki/obj/Debug/net5.0/iki.GeneratedMSBuildEditorConfig.editorconfig
+/Users/humeyraboz/Documents/GitHub/rhbf-csh/first-steps/ahb/iki/obj/Debug/net5.0/iki.AssemblyInfoInputs.cache
+/Users/humeyraboz/Documents/GitHub/rhbf-csh/first-steps/ahb/iki/obj/Debug/net5.0/iki.AssemblyInfo.cs
+/Users/humeyraboz/Documents/GitHub/rhbf-csh/first-steps/ahb/iki/obj/Debug/net5.0/iki.csproj.CoreCompileInputs.cache
+/Users/humeyraboz/Documents/GitHub/rhbf-csh/first-steps/ahb/iki/obj/Debug/net5.0/iki.dll
+/Users/humeyraboz/Documents/GitHub/rhbf-csh/first-steps/ahb/iki/obj/Debug/net5.0/ref/iki.dll
+/Users/humeyraboz/Documents/GitHub/rhbf-csh/first-steps/ahb/iki/obj/Debug/net5.0/iki.pdb
+/Users/humeyraboz/Documents/GitHub/rhbf-csh/first-steps/ahb/iki/obj/Debug/net5.0/iki.genruntimeconfig.cache

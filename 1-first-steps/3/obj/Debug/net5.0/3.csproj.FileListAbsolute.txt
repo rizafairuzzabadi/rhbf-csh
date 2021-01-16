@@ -1,0 +1,15 @@
+/Users/humeyraboz/Documents/GitHub/rhbf-csh/first-steps/ahb/3/obj/Debug/net5.0/3.csprojAssemblyReference.cache
+/Users/humeyraboz/Documents/GitHub/rhbf-csh/first-steps/ahb/3/obj/Debug/net5.0/3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/humeyraboz/Documents/GitHub/rhbf-csh/first-steps/ahb/3/obj/Debug/net5.0/3.AssemblyInfoInputs.cache
+/Users/humeyraboz/Documents/GitHub/rhbf-csh/first-steps/ahb/3/obj/Debug/net5.0/3.AssemblyInfo.cs
+/Users/humeyraboz/Documents/GitHub/rhbf-csh/first-steps/ahb/3/obj/Debug/net5.0/3.csproj.CoreCompileInputs.cache
+/Users/humeyraboz/Documents/GitHub/rhbf-csh/first-steps/ahb/3/bin/Debug/net5.0/3.deps.json
+/Users/humeyraboz/Documents/GitHub/rhbf-csh/first-steps/ahb/3/bin/Debug/net5.0/3.runtimeconfig.json
+/Users/humeyraboz/Documents/GitHub/rhbf-csh/first-steps/ahb/3/bin/Debug/net5.0/3.runtimeconfig.dev.json
+/Users/humeyraboz/Documents/GitHub/rhbf-csh/first-steps/ahb/3/bin/Debug/net5.0/3.dll
+/Users/humeyraboz/Documents/GitHub/rhbf-csh/first-steps/ahb/3/bin/Debug/net5.0/ref/3.dll
+/Users/humeyraboz/Documents/GitHub/rhbf-csh/first-steps/ahb/3/bin/Debug/net5.0/3.pdb
+/Users/humeyraboz/Documents/GitHub/rhbf-csh/first-steps/ahb/3/obj/Debug/net5.0/3.dll
+/Users/humeyraboz/Documents/GitHub/rhbf-csh/first-steps/ahb/3/obj/Debug/net5.0/ref/3.dll
+/Users/humeyraboz/Documents/GitHub/rhbf-csh/first-steps/ahb/3/obj/Debug/net5.0/3.pdb
+/Users/humeyraboz/Documents/GitHub/rhbf-csh/first-steps/ahb/3/obj/Debug/net5.0/3.genruntimeconfig.cache

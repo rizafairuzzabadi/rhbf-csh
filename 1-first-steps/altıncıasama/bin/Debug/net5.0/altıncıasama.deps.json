@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "altıncıasama/1.0.0": {
+        "runtime": {
+          "altıncıasama.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "altıncıasama/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

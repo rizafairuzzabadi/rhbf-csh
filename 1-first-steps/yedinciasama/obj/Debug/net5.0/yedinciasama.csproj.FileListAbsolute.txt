@@ -1,0 +1,15 @@
+/Users/humeyraboz/Documents/GitHub/rhbf-csh/first-steps/ahb/yedinciasama/bin/Debug/net5.0/yedinciasama.deps.json
+/Users/humeyraboz/Documents/GitHub/rhbf-csh/first-steps/ahb/yedinciasama/bin/Debug/net5.0/yedinciasama.runtimeconfig.json
+/Users/humeyraboz/Documents/GitHub/rhbf-csh/first-steps/ahb/yedinciasama/bin/Debug/net5.0/yedinciasama.runtimeconfig.dev.json
+/Users/humeyraboz/Documents/GitHub/rhbf-csh/first-steps/ahb/yedinciasama/bin/Debug/net5.0/yedinciasama.dll
+/Users/humeyraboz/Documents/GitHub/rhbf-csh/first-steps/ahb/yedinciasama/bin/Debug/net5.0/ref/yedinciasama.dll
+/Users/humeyraboz/Documents/GitHub/rhbf-csh/first-steps/ahb/yedinciasama/bin/Debug/net5.0/yedinciasama.pdb
+/Users/humeyraboz/Documents/GitHub/rhbf-csh/first-steps/ahb/yedinciasama/obj/Debug/net5.0/yedinciasama.csprojAssemblyReference.cache
+/Users/humeyraboz/Documents/GitHub/rhbf-csh/first-steps/ahb/yedinciasama/obj/Debug/net5.0/yedinciasama.GeneratedMSBuildEditorConfig.editorconfig
+/Users/humeyraboz/Documents/GitHub/rhbf-csh/first-steps/ahb/yedinciasama/obj/Debug/net5.0/yedinciasama.AssemblyInfoInputs.cache
+/Users/humeyraboz/Documents/GitHub/rhbf-csh/first-steps/ahb/yedinciasama/obj/Debug/net5.0/yedinciasama.AssemblyInfo.cs
+/Users/humeyraboz/Documents/GitHub/rhbf-csh/first-steps/ahb/yedinciasama/obj/Debug/net5.0/yedinciasama.csproj.CoreCompileInputs.cache
+/Users/humeyraboz/Documents/GitHub/rhbf-csh/first-steps/ahb/yedinciasama/obj/Debug/net5.0/yedinciasama.dll
+/Users/humeyraboz/Documents/GitHub/rhbf-csh/first-steps/ahb/yedinciasama/obj/Debug/net5.0/ref/yedinciasama.dll
+/Users/humeyraboz/Documents/GitHub/rhbf-csh/first-steps/ahb/yedinciasama/obj/Debug/net5.0/yedinciasama.pdb
+/Users/humeyraboz/Documents/GitHub/rhbf-csh/first-steps/ahb/yedinciasama/obj/Debug/net5.0/yedinciasama.genruntimeconfig.cache

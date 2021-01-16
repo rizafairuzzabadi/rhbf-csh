@@ -1,0 +1,15 @@
+/Users/humeyraboz/Documents/GitHub/rhbf-csh/first-steps/ahb/add logic to your applications with c#/module4/bin/Debug/net5.0/module4.deps.json
+/Users/humeyraboz/Documents/GitHub/rhbf-csh/first-steps/ahb/add logic to your applications with c#/module4/bin/Debug/net5.0/module4.runtimeconfig.json
+/Users/humeyraboz/Documents/GitHub/rhbf-csh/first-steps/ahb/add logic to your applications with c#/module4/bin/Debug/net5.0/module4.runtimeconfig.dev.json
+/Users/humeyraboz/Documents/GitHub/rhbf-csh/first-steps/ahb/add logic to your applications with c#/module4/bin/Debug/net5.0/module4.dll
+/Users/humeyraboz/Documents/GitHub/rhbf-csh/first-steps/ahb/add logic to your applications with c#/module4/bin/Debug/net5.0/ref/module4.dll
+/Users/humeyraboz/Documents/GitHub/rhbf-csh/first-steps/ahb/add logic to your applications with c#/module4/bin/Debug/net5.0/module4.pdb
+/Users/humeyraboz/Documents/GitHub/rhbf-csh/first-steps/ahb/add logic to your applications with c#/module4/obj/Debug/net5.0/module4.csprojAssemblyReference.cache
+/Users/humeyraboz/Documents/GitHub/rhbf-csh/first-steps/ahb/add logic to your applications with c#/module4/obj/Debug/net5.0/module4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/humeyraboz/Documents/GitHub/rhbf-csh/first-steps/ahb/add logic to your applications with c#/module4/obj/Debug/net5.0/module4.AssemblyInfoInputs.cache
+/Users/humeyraboz/Documents/GitHub/rhbf-csh/first-steps/ahb/add logic to your applications with c#/module4/obj/Debug/net5.0/module4.AssemblyInfo.cs
+/Users/humeyraboz/Documents/GitHub/rhbf-csh/first-steps/ahb/add logic to your applications with c#/module4/obj/Debug/net5.0/module4.csproj.CoreCompileInputs.cache
+/Users/humeyraboz/Documents/GitHub/rhbf-csh/first-steps/ahb/add logic to your applications with c#/module4/obj/Debug/net5.0/module4.dll
+/Users/humeyraboz/Documents/GitHub/rhbf-csh/first-steps/ahb/add logic to your applications with c#/module4/obj/Debug/net5.0/ref/module4.dll
+/Users/humeyraboz/Documents/GitHub/rhbf-csh/first-steps/ahb/add logic to your applications with c#/module4/obj/Debug/net5.0/module4.pdb
+/Users/humeyraboz/Documents/GitHub/rhbf-csh/first-steps/ahb/add logic to your applications with c#/module4/obj/Debug/net5.0/module4.genruntimeconfig.cache
