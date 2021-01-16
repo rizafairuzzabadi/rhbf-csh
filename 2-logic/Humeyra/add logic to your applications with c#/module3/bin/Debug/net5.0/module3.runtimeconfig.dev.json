@@ -1,8 +1,0 @@
-{
-  "runtimeOptions": {
-    "additionalProbingPaths": [
-      "/Users/humeyraboz/.dotnet/store/|arch|/|tfm|",
-      "/Users/humeyraboz/.nuget/packages"
-    ]
-  }
-}
