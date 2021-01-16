@@ -24,6 +24,7 @@ namespace Perform_operations_on_arrays_using_helper_methods_in_C_
                 Array.Reverse(valueArray); 
                 string result = String.Join(" ",valueArray);
                 Console.Write(result); 
+                Console.WriteLine("hello riz");
             }
             
         }
